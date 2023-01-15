@@ -1,0 +1,5 @@
+C:\Users\Casey\Downloads\Inventory Management.exe
+C:\Users\Casey\Downloads\Inventory Management.dll
+C:\Users\Casey\Downloads\Inventory Management.deps.json
+C:\Users\Casey\Downloads\Inventory Management.runtimeconfig.json
+C:\Users\Casey\Downloads\Inventory Management.pdb

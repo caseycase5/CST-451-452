@@ -1,0 +1,44 @@
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Inventory Management.exe
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Inventory Management.deps.json
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Inventory Management.runtimeconfig.json
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Inventory Management.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Inventory Management.pdb
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.csproj.AssemblyReference.cache
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory_Management.Form1.resources
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory_Management.Form2.resources
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory_Management.Form3.resources
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory_Management.Form4.resources
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.csproj.GenerateResource.cache
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.AssemblyInfoInputs.cache
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.AssemblyInfo.cs
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\refint\Inventory Management.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.pdb
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.genruntimeconfig.cache
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\ref\Inventory Management.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Casey\source\repos\Inventory Management\Inventory Management\obj\Release\net6.0-windows\Inventory Management.csproj.CopyComplete
